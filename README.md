@@ -23,6 +23,6 @@ This tool simplifies text preprocessing using Natural Language Processing (NLP) 
      - **Output:** ["Tokenization is important. It involves breaking down text into units.", "After tokenization, further analysis is possible."]
 
 ## Required Modules
-- **NLTk:** A toolkit for NLP tasks like tokenization and stopwords removal.
+- **NLTK:** A toolkit for NLP tasks like tokenization and stopwords removal.<br>
 Install <br>
 ```pip install nltk```
