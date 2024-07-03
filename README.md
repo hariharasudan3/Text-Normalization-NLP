@@ -1,4 +1,4 @@
-![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/fa69d974-d23e-422e-8dfb-b1f5deecfddb)![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/777e4038-0474-4474-a300-71f16567ac90)# Text Normalization and Tokenization
+# Text Normalization and Tokenization
 This tool simplifies text preprocessing using Natural Language Processing (NLP) techniques. It helps standardize and break down text for easier analysis.
 
 ## Features
