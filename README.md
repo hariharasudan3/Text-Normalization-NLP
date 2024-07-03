@@ -29,4 +29,13 @@ This tool simplifies text preprocessing using Natural Language Processing (NLP) 
   <br>
 ```nltk.download('stopwords')```
 ```nltk.download('punkt')```
+- **Flask:** A web framework for creating Python web applications.<br>
+```pip install Flask```
 
+## Python version 3.10 - 3.11
+Install modules by<br>
+```pip install -r requirements.txt```
+<br>
+
+To run the application <br>
+```python app.py```
