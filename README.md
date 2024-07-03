@@ -13,7 +13,7 @@ This tool simplifies text preprocessing using Natural Language Processing (NLP) 
 1. **Text Normalization:** Converts text to lowercase and removes punctuation marks.
 2. **Remove Stopwords:** Filters out common words to highlight significant content.
 3. **Tokenize into Words**
-Example:
+  **Example:**
 Input: "Tokenization is an important step."
 Output: ["Tokenization", "is", "an", "important", "step", "."]
 
