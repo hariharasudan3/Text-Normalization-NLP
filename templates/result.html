@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Processing Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <h1 style="font-family: Arial;">RESULT</h1>
+    </header>
+    <br> <br> <br>
+    <div class="container">
+        <div class="result">
+            {% if processed_text %}
+            <h2>Processed Text:</h2>
+            <p>{{ processed_text }}</p>
+            {% elif tokenized_result %}
+            <ul>
+                {% if tokenized_result.get("Tokenized Words") %}
+                <li><strong>Tokenized Words:</strong> {{ tokenized_result["Tokenized Words"] }}</li>
+                {% endif %}
+                {% if tokenized_result.get("Tokenized Sentences") %}
+                <li><strong>Tokenized Sentences:</strong> 
+                    <ul>
+                        {% for sentence in tokenized_result["Tokenized Sentences"] %}
+                        <li>{{ sentence }}</li>
+                        {% endfor %}
+                    </ul>
+                </li>
+                {% endif %}
+                {% if tokenized_result.get("Tokenized Paragraphs") %}
+                <li><strong>Tokenized Paragraphs:</strong> 
+                    <ul>
+                        {% for paragraph in tokenized_result["Tokenized Paragraphs"] %}
+                        <li>{{ paragraph }}</li>
+                        {% endfor %}
+                    </ul>
+                </li>
+                {% endif %}
+            </ul>
+            {% else %}
+            <p>No result available.</p>
+            {% endif %}
+        </div>
+        </div>
+
+    </div>
+    
+   
+</body>
+</html>

@@ -1,0 +1,100 @@
+/* General Styles */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 80;
+    background-color: #ffffff; /* White background color */
+    color: #90EE90; /* Light green text color */
+    text-align: center;
+    padding: 5px 0 10px 0; /* Adjusted padding: top, right, bottom, left */
+    width: 100%; /* Full width */
+    position: absolute;
+    top: 0;
+    box-sizing: border-box; /* Ensure padding is included in height calculation */
+    margin: 0;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white; /* To make text visible on a black background */
+    background-color: black;
+ 
+}
+
+.container {
+    max-width: 600px;
+    margin: 100px auto 50px; /* Added margin-top for spacing between header and container */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #a0ee90;  /* Green background color */
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+textarea {
+    width: 98%;
+    height: 200px; /* Adjusted height */
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 2px solid black; /* Black border color */
+    border-radius: 5px;
+    resize: vertical;
+    background-color: white; /* Changed background color to white */
+    color: black; /* Ensure text is visible on white background */
+    overflow-y: auto; /* Added scroll bar when content exceeds height */
+}
+
+.select-container {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+select {
+    flex: 1; /* Takes up remaining space */
+    margin-right: 10px; /* Space between select and button */
+    padding: 10px;
+    border: 2px solid black; /* Black border color */
+    border-radius: 5px;
+}
+
+
+
+.result {
+    margin-top: 20px;
+    padding: 20px;
+    border: 2px solid black; /* Added black border */
+    border-radius: 5px;
+    white-space: pre-wrap; /* Preserve formatting and wrap text */
+    overflow-wrap: break-word; /* Ensure long words break and wrap */
+    background-color: white; /* Ensure text is readable */
+    color: black; /* Ensure text is readable */
+}
+
+.result h2 {
+    margin-bottom: 10px;
+}
+
+
+
