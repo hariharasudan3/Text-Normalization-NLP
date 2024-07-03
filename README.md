@@ -27,6 +27,6 @@ This tool simplifies text preprocessing using Natural Language Processing (NLP) 
 Install <br>
 ```pip install nltk```
 - **Download resources:**
-```nltk.download('stopwords')
-nltk.download('punkt')
-```
+```nltk.download('stopwords')```
+```nltk.download('punkt')```
+
