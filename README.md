@@ -1,4 +1,4 @@
-# Text Normalization and Tokenization
+![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/fa69d974-d23e-422e-8dfb-b1f5deecfddb)![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/777e4038-0474-4474-a300-71f16567ac90)# Text Normalization and Tokenization
 This tool simplifies text preprocessing using Natural Language Processing (NLP) techniques. It helps standardize and break down text for easier analysis.
 
 ## Features
@@ -39,3 +39,21 @@ Install modules by<br>
 
 To run the application <br>
 ```python app.py```
+
+## Web Page
+![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/f5c8fa22-5530-4cd2-8395-fc9683407022)
+
+## Text Normalization
+![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/4007602d-ab2d-4abe-bdf0-a1be616f2801)
+
+## Remove Stopwords
+![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/eef92a84-aab1-4e80-a084-999383a1ffc1)
+
+## Tokenize into Words
+![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/71a69c9e-0816-403e-8760-22fc82cb1038)
+
+## Tokenize into Sentences
+![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/1b048b32-afc1-4fa6-9279-6b1923553de4)
+
+## Tokenize into Paragraphs
+![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/24faac6a-d194-4da2-90aa-90fe7ca5f97f)
