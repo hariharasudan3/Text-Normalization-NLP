@@ -10,20 +10,19 @@ This tool simplifies text preprocessing using Natural Language Processing (NLP) 
 - **Tokenize into Paragraphs:** Separate text into paragraphs for deeper document analysis.
 
 ## Usage
-1. **Text Normalization**: Converts text to lowercase and removes punctuation marks.
+1. **Text Normalization:** Converts text to lowercase and removes punctuation marks.
 2. **Remove Stopwords:** Filters out common words to highlight significant content.
 3. **Tokenize into Words**
 Example:
 Input: "Tokenization is an important step."
 Output: ["Tokenization", "is", "an", "important", "step", "."]
 
-Tokenize into Sentences
+4. **Tokenize into Sentences**
 Example:
-
 Input: "Tokenization is important. It breaks down text."
 Output: ["Tokenization is important.", "It breaks down text."]
-Tokenize into Paragraphs
-Example:
 
+5. **Tokenize into Paragraphs**
+Example:
 Input: "Tokenization is important. It involves breaking down text into units.\n\nAfter tokenization, further analysis is possible."
 Output: ["Tokenization is important. It involves breaking down text into units.", "After tokenization, further analysis is possible."]
