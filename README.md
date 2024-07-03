@@ -26,3 +26,7 @@ This tool simplifies text preprocessing using Natural Language Processing (NLP) 
 - **NLTK:** A toolkit for NLP tasks like tokenization and stopwords removal.<br>
 Install <br>
 ```pip install nltk```
+- **Download resources:**
+```nltk.download('stopwords')
+nltk.download('punkt')
+```
