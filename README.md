@@ -41,19 +41,19 @@ To run the application <br>
 ```python app.py```
 
 ## Web Page
-![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/f5c8fa22-5530-4cd2-8395-fc9683407022)
+![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/8d6304f8-5cb7-4c1a-8e29-83fabd632a5f)
 
 ## Text Normalization
-![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/4007602d-ab2d-4abe-bdf0-a1be616f2801)
+![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/edac3933-f14f-4203-8a82-128df0bab869)
 
 ## Remove Stopwords
-![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/eef92a84-aab1-4e80-a084-999383a1ffc1)
+![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/da1c6d1c-960a-4aec-a377-b7cd02b8b59d)
 
 ## Tokenize into Words
-![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/71a69c9e-0816-403e-8760-22fc82cb1038)
+![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/4ed0480b-0358-494f-9405-5106791a43bc)
 
 ## Tokenize into Sentences
-![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/1b048b32-afc1-4fa6-9279-6b1923553de4)
+![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/b5367a92-d59b-4796-8024-cb69c9e9a2a7)
 
 ## Tokenize into Paragraphs
-![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/24faac6a-d194-4da2-90aa-90fe7ca5f97f)
+![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/e36362d9-01f0-4023-92a1-f8284444ba82)
