@@ -29,6 +29,5 @@ This tool simplifies text preprocessing using Natural Language Processing (NLP) 
   <br>
 ```nltk.download('stopwords')```
 <br>
-
 ```nltk.download('punkt')```
 
