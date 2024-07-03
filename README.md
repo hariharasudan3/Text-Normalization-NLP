@@ -21,3 +21,8 @@ This tool simplifies text preprocessing using Natural Language Processing (NLP) 
 5. **Tokenize into Paragraphs**
      - **Input:** "Tokenization is important. It involves breaking down text into units.\n\nAfter tokenization, further analysis is possible."
      - **Output:** ["Tokenization is important. It involves breaking down text into units.", "After tokenization, further analysis is possible."]
+
+## Required Modules
+- **NLTk:** A toolkit for NLP tasks like tokenization and stopwords removal.
+Install <br>
+```pip install nltk```
