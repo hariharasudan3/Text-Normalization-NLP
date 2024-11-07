@@ -57,3 +57,8 @@ To run the application <br>
 
 ## Tokenize into Paragraphs
 ![image](https://github.com/hariharasudan3/Text-Normalization-NLP/assets/145860861/e36362d9-01f0-4023-92a1-f8284444ba82)
+
+
+## 📃 License
+
+This project follows the [MIT License](/LICENSE).
